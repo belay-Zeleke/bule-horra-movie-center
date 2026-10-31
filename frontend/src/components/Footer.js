@@ -18,9 +18,9 @@ export default function Footer() {
         <div className="footer-social">
           <h4>Follow Us</h4>
           <div className="social-icons">
-            <a href="#" className="social-btn">FB</a>
-            <a href="#" className="social-btn">TW</a>
-            <a href="#" className="social-btn">IG</a>
+            <a href="https://facebook.com/your-page">Facebook</a>
+<a href="https://instagram.com/your-page">Instagram</a>
+<a href="https://twitter.com/your-page">Twitter</a>
           </div>
         </div>
       </div>
